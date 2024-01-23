@@ -17,7 +17,7 @@ Much of this project's code and documentation will be generated using ChatGPT 4,
 - **Project Management**: Choose and modify current working project settings.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/DocumentManagementSystem.git`
+1. Clone the repository: `git clone https://github.com/rbr0wn92/lightweight-DMS.git`
 
 2. Navigate to the project directory: `cd lightweight-DMS`
 
