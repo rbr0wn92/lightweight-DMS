@@ -13,7 +13,7 @@ Document Management System (DMS) is a comprehensive tool designed to manage and 
 ## Installation
 1. Clone the repository: `git clone https://github.com/yourusername/DocumentManagementSystem.git`
 
-2. Navigate to the project directory: 'cd lightweight-DMS'
+2. Navigate to the project directory: `cd lightweight-DMS`
 
 3. (Include steps specific to setting up and running your application)
 
