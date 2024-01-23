@@ -1,11 +1,13 @@
-# Document Management System (DMS)
+# Lightweight-DMS
 
 ## Overview
-Document Management System (DMS) is a comprehensive tool designed to manage and track document revisions and metadata within projects. It provides an intuitive interface for adding, updating, and searching documents, ensuring efficient management of document lifecycles.
+Lightweight-DMS is a lightweight Document Management System tool designed to manage and track document revisions and metadata within projects. It provides an intuitive interface for adding, updating, and searching documents, ensuring efficient management of document lifecycles.
 
 It is critical that the project remains lightweight and modular. The inspiration for this project is the ability to incorporate the system rapidly with minimal corporate-IT permissions/red-tape, while allowing for maximum access to the information through an API or even direct access.
 
 All extra functionality beyond adding/updating/searching/retrieving documents should be implimented as an optional modular plugin.
+
+Much of this project's code and documentation will be generated using ChatGPT 4, so errors can and will occur (particularly in the Documentation where the GPT doesn't have a full grasp of the context).
 
 ## Features (Most To Come)
 - **Document Instance Creation**: Create new document instances in the database.
