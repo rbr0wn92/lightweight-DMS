@@ -3,7 +3,11 @@
 ## Overview
 Document Management System (DMS) is a comprehensive tool designed to manage and track document revisions and metadata within projects. It provides an intuitive interface for adding, updating, and searching documents, ensuring efficient management of document lifecycles.
 
-## Features
+It is critical that the project remains lightweight and modular. The inspiration for this project is the ability to incorporate the system rapidly with minimal corporate-IT permissions/red-tape, while allowing for maximum access to the information through an API or even direct access.
+
+All extra functionality beyond adding/updating/searching/retrieving documents should be implimented as an optional modular plugin.
+
+## Features (Most To Come)
 - **Document Instance Creation**: Create new document instances in the database.
 - **Revision Tracking**: Update document instances with newer file versions while keeping track of older revisions.
 - **Document Linking**: Ability to link documents from different projects, with updates reflecting across linked instances.
@@ -18,7 +22,9 @@ Document Management System (DMS) is a comprehensive tool designed to manage and 
 3. (Include steps specific to setting up and running your application)
 
 ## Usage
-(Provide a quick start guide or examples on how to use the application)
+Currently the project exists as a Class object in Python.
+
+The plan is to impliment all basic functionality and port it to an API.
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
