@@ -56,4 +56,4 @@ Distributed under the GNU Affero General Public License (AGPL). See `LICENSE` fo
 ## Contact
 Ryan Brown - me@ryanbrown.engineer
 
-Project Link: [https://github.com/yourusername/DocumentManagementSystem](https://github.com/rbr0wn92/lightweight-DMS)](https://github.com/rbr0wn92/lightweight-DMS)
+Project Link: https://github.com/rbr0wn92/lightweight-DMS
